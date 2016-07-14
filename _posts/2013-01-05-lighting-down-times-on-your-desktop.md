@@ -61,6 +61,6 @@ All of these commands are connected to each other with pipes (the `|` character
 
 Hopefully, your desktop should now be looking something like this:
 
-![Lighting up and down times on my desktop]({{ site.baseurl }}/files/2013/lighting_up_down.png)
+![Lighting up and down times on my desktop]({{ site.baseurl | prepend: site.github.url }}/files/2013/lighting_up_down.png)
 
-[Full size here]({{ site.baseurl }}/files/2013/desktop.jpg).
+[Full size here]({{ site.baseurl | prepend: site.github.url }}/files/2013/desktop.jpg).

@@ -24,4 +24,4 @@ To give some pointers to a colleague, I put together a quick demonstration expla
 
 These are the Color Brewer palettes that you can find in the example:
 
-![colorbrewer_cols]({{ site.baseurl }}/files/2014/colorbrewer_cols-e1417783539859.png)
+![colorbrewer_cols]({{ site.baseurl | prepend: site.github.url }}/files/2014/colorbrewer_cols-e1417783539859.png)

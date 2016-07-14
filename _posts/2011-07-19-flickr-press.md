@@ -13,7 +13,7 @@ categories:
 tags:
   - WordPress
 ---
-I've been using the excellent [Flickr Press](http://www.fergusweb.net/software/flickr-press/) plugin to display flickr sets on a [website](http://www.mcr.trinhall.cam.ac.uk/photos/) that I've been working on lately, and I made a few changes to make life easier. In case anyone else may find them useful, I've uploaded the modified plugin here for general use. I've notified the original author, so hopefully if he likes the changes they may be pushed in a future update. For now you can [download it here]({{ site.baseurl }}/files/2011/flickr-press.zip).
+I've been using the excellent [Flickr Press](http://www.fergusweb.net/software/flickr-press/) plugin to display flickr sets on a [website](http://www.mcr.trinhall.cam.ac.uk/photos/) that I've been working on lately, and I made a few changes to make life easier. In case anyone else may find them useful, I've uploaded the modified plugin here for general use. I've notified the original author, so hopefully if he likes the changes they may be pushed in a future update. For now you can [download it here]({{ site.baseurl | prepend: site.github.url }}/files/2011/flickr-press.zip).
 
 Changes are:
 

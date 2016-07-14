@@ -18,7 +18,7 @@ I often have directories full of text files (usually containing probe reports fr
 
 
 
-![R strip plots]({{ site.baseurl }}/files/2014/r-strip-plots-for-all-files-in-a-directory.png)
+![R strip plots]({{ site.baseurl | prepend: site.github.url }}/files/2014/r-strip-plots-for-all-files-in-a-directory.png)
 
 The files don't have to be the same length and there can be any number of them. As the code stands it only reads in column 13 of the file (typically the column with the quantitated values in [SeqMonk ](http://www.bioinformatics.babraham.ac.uk/projects/seqmonk/)reports).
 
