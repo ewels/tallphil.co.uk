@@ -6,6 +6,7 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=818
 permalink: /bootstrap-feature-widgets/
+feature_image: files/2014/banner-772x250.png
 categories:
   - "Things I've Made"
   - Website Design

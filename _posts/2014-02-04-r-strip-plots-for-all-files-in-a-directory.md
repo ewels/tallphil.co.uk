@@ -6,6 +6,7 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=809
 permalink: /r-strip-plots-for-all-files-in-a-directory/
+feature_image: files/2014/r-strip-plots-for-all-files-in-a-directory.png
 categories:
   - Science
   - "Things I've Made"

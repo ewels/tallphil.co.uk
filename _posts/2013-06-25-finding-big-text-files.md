@@ -6,6 +6,7 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=780
 permalink: /finding-big-text-files/
+feature_image: files/2013/zip_it_illustrator_brush_by_stoostock-d35j2uq.jpg
 categories:
   - Science
 tags:

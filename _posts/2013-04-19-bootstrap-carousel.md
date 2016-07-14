@@ -6,6 +6,7 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=765
 permalink: /bootstrap-carousel/
+feature_image: files/2013/banner-1544x500.png
 categories:
   - "Things I've Made"
   - Website Design

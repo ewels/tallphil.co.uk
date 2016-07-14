@@ -6,6 +6,7 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=745
 permalink: /lighting-down-times-on-your-desktop/
+feature_image: files/2013/part-desktop.jpg
 categories:
   - Personal
 ---

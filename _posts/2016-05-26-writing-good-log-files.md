@@ -6,6 +6,7 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=885
 permalink: /writing-good-log-files/
+feature_image: files/2016/G-C-Woolley-page-of-diary-No2-e1464269232251.jpg
 categories:
   - Science
 tags:

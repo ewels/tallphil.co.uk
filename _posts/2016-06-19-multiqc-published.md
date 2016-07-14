@@ -6,6 +6,7 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=897
 permalink: /multiqc-published/
+feature_image: files/2016/multiqc_bioinformatics.png
 categories:
   - Science
   - "Things I've Made"
