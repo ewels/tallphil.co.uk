@@ -1,15 +1,23 @@
 ---
+id: 885
+title: How to write a good log file
+date: 2016-05-26T14:27:42+00:00
+author: Phil
 layout: post
-title:  "How to write a good log file"
-date:   2016-05-26 22:07:32 +0200
-categories: bioinformatics
+guid: http://www.tallphil.co.uk/?p=885
+permalink: /writing-good-log-files/
+categories:
+  - Science
+tags:
+  - bioinformatics
+  - software
 ---
+
 Software log messages are not a sexy topic. In fact, they're usually pretty
 low down the list of priorities that most bioinformaticians have when writing
 software. But logs are important! Here are some of my tips on how to get it
 right.
 
-[[MORE]]
 
 I've just finished reading Simon Andrews'
 [excellent blog post](http://proteo.me.uk/2016/05/defensive-strategies-to-get-through-software-paper-reviews/)

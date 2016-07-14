@@ -14,5 +14,11 @@ camel's back.
 
 So I've moved to Jekyll.
 
+Migrating posts from my old site was ridiculously easy, made possible
+with a WordPress plugin called
+[Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter/) -
+literally a one click tool which generated a load of markdown
+files ready to dump straight into Jekyll.
+
 
 
