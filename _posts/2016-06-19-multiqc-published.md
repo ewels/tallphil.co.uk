@@ -30,9 +30,9 @@ I'm sure that much of the success of MultiQC comes down to its ease of use and d
 
 Anyway, if you'd like to read more, you can find the new publication here:
 
-> **MultiQC: Summarize analysis results for multiple tools and samples in a single report**
-> Bioinformatics (2016)
-> <u>Ewels P</u>, Måns Magnusson, Sverker Lundin and Max Käller
-> doi: [10.1093/bioinformatics/btw354](http://dx.doi.org/10.1093/bioinformatics/btw354) PMID: [27312411](http://www.ncbi.nlm.nih.gov/pubmed/27312411)
+> **MultiQC: Summarize analysis results for multiple tools and samples in a single report** <br>
+> Bioinformatics (2016) <br>
+> <u>Ewels P</u>, Måns Magnusson, Sverker Lundin and Max Käller <br>
+> doi: [10.1093/bioinformatics/btw354](http://dx.doi.org/10.1093/bioinformatics/btw354) PMID: [27312411](http://www.ncbi.nlm.nih.gov/pubmed/27312411) <br>
 
 The main MultiQC website with documentation and walkthrough videos is at [http://multiqc.info](http://multiqc.info)

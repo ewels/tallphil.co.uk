@@ -7,7 +7,6 @@
 
 # Site settings
 title: tallphil.co.uk
-email: phil@tallphil.co.uk
 description: Articles by Phil Ewels, a bioinformatician in Stockholm, Sweden.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ewels.github.io" # the base hostname & protocol for your site

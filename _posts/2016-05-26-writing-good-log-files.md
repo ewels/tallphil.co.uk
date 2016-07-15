@@ -103,7 +103,7 @@ This is silently printed to a file for future reference, along with a much
 simpler `*Log.final.out` file which summarises the final results of the
 execution.
 
-##Suggestion 3: Use Nice Formats
+## Suggestion 3: Use Nice Formats
 With a little forethought, it's a trivial job
 to write output which is easy to read for both Humans and computers. This
 suggestion is best explained with a couple of examples. [Bowtie
