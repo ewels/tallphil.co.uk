@@ -55,8 +55,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    border-bottom: 1px solid $grey-color-light;
-    padding: $spacing-unit;
+    padding: 19px $spacing-unit;
     font-size: 15px;
     color: $grey-color;
     text-align: right;
@@ -203,7 +202,7 @@
 }
 .post-list-panel,
 .post-panel {
-    height: calc(100vh - 146px);
+    height: calc(100vh - 123px);
     overflow-y: auto;
 }
 .post-list-panel {

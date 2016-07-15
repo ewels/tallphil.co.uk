@@ -6,13 +6,13 @@ author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=765
 permalink: /bootstrap-carousel/
-feature_image: files/2013/banner-1544x500.png
 categories:
   - "Things I've Made"
   - Website Design
 ---
-> ![CPT-Bootstrap-Carousel Logo]({{ site.baseurl | prepend: site.github.url }}/files/2013/icon-128x128.png)
 > A WordPress plugin to make choosing images and content for the Bootstrap Image Carousel easy. Available from the [WordPress Plugin Repository](http://wordpress.org/plugins/cpt-bootstrap-carousel/).
+
+![CPT-Bootstrap-Carousel Logo]({{ site.baseurl | prepend: site.github.url }}/files/2013/icon-128x128.png)
 
 I've been working in WordPress with Bootstrap as a back end for themes a lot lately. On a recent site I wanted a simple image slider couldn't find anything that did what I wanted. So I did what any good WP developer should - 
 
@@ -26,7 +26,7 @@ You can download the plugin from the [WordPress plugin repository](http://wordp
 
 If you'd like to contribute code to the plugin, it's now also hosted on GitHub: [https://github.com/tallphil/cpt-bootstrap-carousel](https://github.com/tallphil/cpt-bootstrap-carousel)<figure id="attachment_837" style="width: 660px" class="wp-caption aligncenter">
 
-![CPT-Bootstrap-Carousel header image]({{ site.baseurl | prepend: site.github.url }}/files/2013/banner-1544x500-1024x331.png")
+![CPT-Bootstrap-Carousel header image]({{ site.baseurl | prepend: site.github.url }}/files/2013/banner-1544x500.png)
 
 ### Credits
 

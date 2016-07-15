@@ -13,7 +13,7 @@ categories:
 ---
 Rather than sitting on my hard disk getting dusty, I thought I should start publishing the bioinformatics scripts that I've written over the past few years of my PhD.
 
-The first to go up is a Perl script called &#8220;Genome RE Sites&#8221; - it searches a genome of your choice for a [restriction endonuclease](http://en.wikipedia.org/wiki/Restriction_enzyme) recognition site and outputs the co-ordinates of all cut sites.
+The first to go up is a Perl script called "Genome RE Sites" - it searches a genome of your choice for a [restriction endonuclease](http://en.wikipedia.org/wiki/Restriction_enzyme) recognition site and outputs the co-ordinates of all cut sites.
 
 **[ Update ] : You can find an online version of this tool _[here](http://www.tallphil.co.uk/bioinformatics/genome_re_sites)._**
 
@@ -31,4 +31,4 @@ perl genome_RE_sites.pl [output file] [search string]
 
 Download the code [here](https://gist.github.com/tallphil/6175796/download), or copy and paste from below:
 
-[gist id=&#8221;6175796&#8243;]
+<script src="https://gist.github.com/ewels/6175796.js"></script>

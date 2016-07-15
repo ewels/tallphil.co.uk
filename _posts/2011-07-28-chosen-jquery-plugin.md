@@ -15,4 +15,4 @@ I just came across the [Chosen JavaScript plugin](http://harvesthq.github.com/ch
 
 Previously, I've tended to opt for either standard dropdown select boxes or something like the 
 
-[jQuery UI Autocomplete](http://jqueryui.com/demos/autocomplete/) (still awesome if the list you're selecting is massive). I think [Chosen](http://harvesthq.github.com/chosen/) will become a standard include on every website I do from now on though, very impressed&#8230;
+[jQuery UI Autocomplete](http://jqueryui.com/demos/autocomplete/) (still awesome if the list you're selecting is massive). I think [Chosen](http://harvesthq.github.com/chosen/) will become a standard include on every website I do from now on though, very impressed...

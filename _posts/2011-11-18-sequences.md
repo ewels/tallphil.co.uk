@@ -25,4 +25,4 @@ It does a couple of cool things, such as remembering your settings using
 
 It's free for anyone to use, and everything is included in the one HTML file. To host it on your own server just View Source, copy and paste..
 
-**_[ Update : ]_** This project is now hosted on [github](https://github.com/tallphil/Sequences) - it's still only one file (so you can still use or grab it by viewing source above), but github allows nice things like issue tracking, collaboration and forking&#8230;
+**_[ Update : ]_** This project is now hosted on [github](https://github.com/tallphil/Sequences) - it's still only one file (so you can still use or grab it by viewing source above), but github allows nice things like issue tracking, collaboration and forking...

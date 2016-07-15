@@ -29,78 +29,45 @@ Also, in case anyone finds them useful, below are some CSS styles I've written f
   * Removes some of the text styling (such as link underlines)
   * Changes the rollover behaviour of photo thumbnails, including CSS3 animations
 
-[css]
-  
+```css
 #flickr_photosets .photoset {
-	  
-border:1px solid #999 !important;
-	  
--moz-box-shadow: 0 0 8px #999;
-	  
--webkit-box-shadow: 0 0 8px #999;
-	  
-box-shadow: 0 0 8px #999;
-	  
-width:280px;
-	  
-float:left;
-	  
-clear:none !important;
-  
+  border:1px solid #999 !important;
+  -moz-box-shadow: 0 0 8px #999;
+  -webkit-box-shadow: 0 0 8px #999;
+  box-shadow: 0 0 8px #999;
+  width:280px;
+  float:left;
+  clear:none !important;
 }
   
 #flickr_photosets .photoset h3 {
-	  
-text-shadow:none !important;
-	  
-margin-top:0;
-  
+  text-shadow:none !important;
+  margin-top:0;
 }
   
 #flickr_photosets .photoset h3 a { text-decoration:none; font-size:medium; font-family: Garamond, Georgia, serif; }
-  
 #flickr_photosets .photoset p { font-size:smaller; color:#666; }
-  
 #flickr_photosets .photoset p a { text-decoration:none; color:#666; }
-  
-#flickr\_photosets .photoset h3 a:hover, #flickr\_photosets .photoset p a:hover { text-decoration:underline; }
-  
+#flickr_photosets .photoset h3 a:hover, #flickr_photosets .photoset p a:hover { text-decoration:underline; }
 #flickr_photosets .photoset:nth-of-type(2n+1) {
-	  
-clear:left !important;
-  
+  clear:left !important;
 }
   
-#flickr\_album .thumbnails a.thumb img.thumb, #flickr\_photo .photo_context p a img { margin: 1px 8px 5px 1px; border:1px solid #FFF; }
-  
+#flickr_album .thumbnails a.thumb img.thumb, #flickr_photo .photo_context p a img { margin: 1px 8px 5px 1px; border:1px solid #FFF; }
 #flickr_album a img.primary { margin: 2px 24px 8px 2px; border:1px solid #FFF; }
-  
-#flickr\_album .thumbnails a.thumb img.thumb, #flickr\_album a img.primary, #flickr\_photo .photo\_context p a img {
-	  
-padding:0;
-	  
-background:none;
-	  
--moz-box-shadow: 2px 2px 4px #999;
-	  
--webkit-box-shadow: 2px 2px 4px #999;
-	  
-box-shadow: 2px 2px 4px #999;
-	  
--webkit-transition: all 100ms ease-in;
-	  
--moz-transition: all 100ms ease-in;
-	  
--o-transition: all 100ms ease-in;
-	  
-transition: all 100ms ease-in;
-  
+#flickr_album .thumbnails a.thumb img.thumb, #flickr_album a img.primary, #flickr_photo .photo_context p a img {
+  padding:0;
+  background:none;
+  -moz-box-shadow: 2px 2px 4px #999;
+  -webkit-box-shadow: 2px 2px 4px #999;
+  box-shadow: 2px 2px 4px #999;
+  -webkit-transition: all 100ms ease-in;
+  -moz-transition: all 100ms ease-in;
+  -o-transition: all 100ms ease-in;
+  transition: all 100ms ease-in;
 }
   
-#flickr\_album .thumbnails a.thumb:hover img.thumb, #flickr\_album a:hover img.primary, #flickr\_photo .photo\_context p a:hover img { border:1px solid #666; }
-  
+#flickr_album .thumbnails a.thumb:hover img.thumb, #flickr_album a:hover img.primary, #flickr_photo .photo_context p a:hover img { border:1px solid #666; }
 #flickr_photo p.photo img.photo { border: 1px solid #999; }
-  
 #flickr_photo p.meta a { text-decoration:none; }
-  
-[/css]
+```

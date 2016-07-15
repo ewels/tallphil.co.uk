@@ -44,7 +44,7 @@ I'm using [github](https://github.com) to manage version control. In lay terms 
 
 ### Initial LyX Setup
 
-Ok, into the details. These are the first things that I changed in my master document and child documents (you need to do each one separately if you intend to preview them in their own pdfs)&#8230; All of this stuff is in Document » Settings.
+Ok, into the details. These are the first things that I changed in my master document and child documents (you need to do each one separately if you intend to preview them in their own pdfs)... All of this stuff is in Document » Settings.
 
 > **UPDATE:** I later changed both margins and bibliography style. You can read more details in [Part 2 of this post](http://www.tallphil.co.uk/lyx-tips-for-thesis-writing-part-two/).
 
@@ -52,9 +52,7 @@ Ok, into the details. These are the first things that I changed in my master doc
   * Modules - I added Number Equations / Figures / Tables by Section. This has the effect of naming each figure according to the chapter and section that it's within, rather than simply by the number of figures that there has been.
   * Fonts - I kept this simple to start with, using Sans Serif as the Default family, and Helvetica for Sans Serif. I imagine that I'll move to XeTeX and possibly fancier fonts at the end once I move into pure LaTeX.
   * Page Margins - LaTeX always defaults to massive margins. I changed mine to 2cm Top, Bottom, Outer and 3cm Inner.
-  * Bibliography - Natbib, style Numerical.**
-  
-** 
+  * Bibliography - Natbib, style Numerical.
   * PDF Properties - Use hyperref support (No frames around links). This allows the table of contents to act as clickable links to the parts of your document, and gives the PDF bookmarks which I find very helpful.
 
 If you're forward thinking enough to do all of this before you start creating your child documents you should only have to do this once. I wasn't.

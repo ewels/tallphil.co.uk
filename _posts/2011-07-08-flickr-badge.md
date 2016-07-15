@@ -17,7 +17,7 @@ tags:
 ---
 > A simple WordPress plugin that creates a flickr badge widget which you can drop into your site. Available from the [WordPress Plugin Repository](http://wordpress.org/plugins/flickr-badge/).
 
-I've been using the excellent [flickr badge](http://www.flickr.com/badge.gne) on a website lately, and decided that it would be nice to put the script in as a widget, with easy to update options to customise it. So, I wrote a [quick plugin](http://wordpress.org/extend/plugins/flickr-badge/) which does just that&#8230;
+I've been using the excellent [flickr badge](http://www.flickr.com/badge.gne) on a website lately, and decided that it would be nice to put the script in as a widget, with easy to update options to customise it. So, I wrote a [quick plugin](http://wordpress.org/extend/plugins/flickr-badge/) which does just that...
   
 
 
@@ -78,20 +78,20 @@ Extra CSS styles should be added to the &#8216;styles.css' file, which can be ed
 
 Some example CSS is included below to help you on your way, though please note that this may not work for all themes. This CSS will give a vertical bar of photos, wide enough for the largest photo size (Small).
 
-```js
+```css
 .flickrBadge {
- text-align:center;
- width:256px;
- }
- .flickrBadge ul, .flickrBadge li {
- margin:0;
- list-style-type:none;
- }
- .flickrBadge img{
- margin:5px 0 5px 5px;
- padding:0;
- border:1px solid #000;
- }
+  text-align:center;
+  width:256px;
+}
+.flickrBadge ul, .flickrBadge li {
+  margin:0;
+  list-style-type:none;
+}
+.flickrBadge img{
+  margin:5px 0 5px 5px;
+  padding:0;
+  border:1px solid #000;
+}
 ```
 
 #### Limits

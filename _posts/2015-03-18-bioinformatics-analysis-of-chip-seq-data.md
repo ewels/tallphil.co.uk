@@ -14,12 +14,10 @@ tags:
   - presentation
   - talk
 ---
-This morning I gave a talk for PhD students and postdocs as part of the &#8220;Epigenetics and its applications in clinical research&#8221; course at the Karolinska Institute. The talk was a pretty general introduction to ChIP-Seq and it's analysis, so I thought others may find it useful.
-
-
+This morning I gave a talk for PhD students and postdocs as part of the "Epigenetics and its applications in clinical research" course at the Karolinska Institute. The talk was a pretty general introduction to ChIP-Seq and it's analysis, so I thought others may find it useful.
 
 Please note that this talk is by nature biased towards my own experience and preferences with ChIP-Seq analysis. Hopefully it will be clear from the talk, but I believe that there is no right or wrong when it comes to this stuff. These are just some notes from the road..
 
-[slideshare id=45983005&doc=chip-seq2015-03-18-150318053453-conversion-gate01]
+Feel free to leave comments on the [Slide Share](http://www.slideshare.net/tallphil/chip-45983005) page.
 
-Feel free to leave comments on the [Slide Share](http://www.slideshare.net/tallphil/chip-45983005) page (I've disabled comments on this site because of spam).
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2fql5y1k1OjNUf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>

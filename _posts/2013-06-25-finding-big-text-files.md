@@ -22,4 +22,4 @@ In biology and bioinformatics, we often work with text files. These things can b
 
 To help with this, I wrote a mini-script which I thought may be useful to others. You can use the script to print out a list of paths to potentially compressible files. The output is printed as STOUT, so can be [saved to a file](http://linuxwave.blogspot.co.uk/2008/03/redirecting-stdout-and-stderr.html) or piped to other commands.
 
-[gist id=&#8221;6175673&#8243;]
+<script src="https://gist.github.com/ewels/6175673.js"></script>

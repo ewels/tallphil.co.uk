@@ -12,7 +12,7 @@ categories:
 ---
 In a couple of days I'll be [giving a talk](http://www.mcr.trinhall.cam.ac.uk/events/event/mcmenemy-seminar-phil-ewels-how-websites-work-a-beginners-guide/) about web design - a very simple talk, just about the basics of how web pages are delivered and built. You can see the slides here:
 
-[slideshare id=15850569&doc=internetmcmenemey-130104024030-phpapp02]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HTJx0ImHfYnTNO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 I thought that to accompany the talk, I'd write a quick blog post about how to set up a simple WordPress website for free if you're a student at Cambridge.
 
@@ -38,7 +38,7 @@ You can see connection details on the [SRCF FAQ](http://www.srcf.net/faq/basics)
 
 Next up, check that you can access your database: log in to [phpMyAdmin](https://www.srcf.net/phpmyadmin/). This is a web-based control panel where you can view and edit your database manually. You should see your personal database on the left along with any society account databases. They should all look pretty empty at this point.
 
-If everything is working so far and you have all of your login details and passwords, we're good to go! Congratulations, that was the hardest bit of the whole process&#8230;
+If everything is working so far and you have all of your login details and passwords, we're good to go! Congratulations, that was the hardest bit of the whole process...
 
 ## Installing WordPress
 
