@@ -219,7 +219,7 @@
  * Home page
  */
 
-.home {
+.home, .single-post {
     display: flex;
 }
 .post-list-panel,
@@ -239,7 +239,7 @@
 }
 
 @include media-query($on-palm) {
-    .home {
+    .home, .single-post {
         display: block;
     }
     .post-list-panel {
