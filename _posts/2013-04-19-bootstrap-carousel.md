@@ -2,7 +2,6 @@
 id: 765
 title: Bootstrap Carousel WordPress Plugin
 date: 2013-04-19T22:50:48+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=765
 permalink: /bootstrap-carousel/

@@ -2,7 +2,6 @@
 id: 529
 title: Flickr Badge
 date: 2011-07-08T14:56:43+00:00
-author: Phil
 layout: post
 guid: http://tallphil.ewels.co.uk/?p=529
 permalink: /flickr-badge/

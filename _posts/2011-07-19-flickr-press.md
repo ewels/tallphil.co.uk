@@ -2,7 +2,6 @@
 id: 540
 title: Flickr Press
 date: 2011-07-19T23:54:28+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=540
 permalink: /flickr-press/

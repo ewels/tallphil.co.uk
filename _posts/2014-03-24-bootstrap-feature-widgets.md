@@ -2,7 +2,6 @@
 id: 818
 title: Bootstrap Feature Widgets WordPress Plugin
 date: 2014-03-24T23:04:43+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=818
 permalink: /bootstrap-feature-widgets/

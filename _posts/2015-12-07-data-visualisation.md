@@ -2,7 +2,6 @@
 id: 877
 title: Effective data visualisation
 date: 2015-12-07T14:15:27+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=877
 permalink: /data-visualisation/

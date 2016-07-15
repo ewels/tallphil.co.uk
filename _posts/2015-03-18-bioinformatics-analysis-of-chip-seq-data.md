@@ -2,7 +2,6 @@
 id: 858
 title: Bioinformatics Analysis of ChIP-Seq Data
 date: 2015-03-18T16:50:27+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=858
 permalink: /bioinformatics-analysis-of-chip-seq-data/

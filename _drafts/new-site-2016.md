@@ -3,6 +3,7 @@ layout: post
 title:  "tallphil.co.uk version 4"
 date:   2016-07-14 22:07:32 +0200
 categories: website
+permalink: /tallphil-v4/
 ---
 
 So my blog at tallphil.co.uk was hacked a few weeks ago and taken down by

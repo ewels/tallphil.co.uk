@@ -2,7 +2,6 @@
 id: 738
 title: Making a Website (Cambridge Students)
 date: 2013-01-29T01:54:15+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=738
 permalink: /making-a-website-srcf/

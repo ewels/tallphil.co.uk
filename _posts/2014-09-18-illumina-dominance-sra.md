@@ -2,7 +2,6 @@
 id: 840
 title: Illumina Dominance in the SRA
 date: 2014-09-18T18:05:58+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=840
 permalink: /illumina-dominance-sra/

@@ -2,7 +2,6 @@
 id: 833
 title: niceLiftOver
 date: 2014-04-03T16:47:42+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=833
 permalink: /niceliftover/

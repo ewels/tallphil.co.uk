@@ -2,7 +2,6 @@
 id: 897
 title: 'MultiQC: Published!'
 date: 2016-06-19T09:10:42+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=897
 permalink: /multiqc-published/

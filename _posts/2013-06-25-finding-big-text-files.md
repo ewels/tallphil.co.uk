@@ -2,7 +2,6 @@
 id: 780
 title: 'Saving space - finding big text files'
 date: 2013-06-25T16:27:34+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=780
 permalink: /finding-big-text-files/

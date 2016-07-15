@@ -2,7 +2,6 @@
 id: 565
 title: Genome RE Sites
 date: 2011-10-19T15:50:44+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=565
 permalink: /genome-re-sites/

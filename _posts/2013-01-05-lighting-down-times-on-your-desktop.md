@@ -2,7 +2,6 @@
 id: 745
 title: CUCBC Lighting down times on your desktop
 date: 2013-01-05T16:58:16+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=745
 permalink: /lighting-down-times-on-your-desktop/

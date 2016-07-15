@@ -2,7 +2,6 @@
 id: 550
 title: Chosen jQuery Plugin
 date: 2011-07-28T12:08:27+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=550
 permalink: /chosen-jquery-plugin/

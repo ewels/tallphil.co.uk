@@ -2,7 +2,6 @@
 id: 554
 title: Taking WordPress Menus back to basics
 date: 2011-09-06T17:43:43+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=554
 permalink: /taking-wordpress-menus-back-to-basics/

@@ -2,7 +2,6 @@
 id: 885
 title: How to write a good log file
 date: 2016-05-26T14:27:42+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=885
 permalink: /writing-good-log-files/

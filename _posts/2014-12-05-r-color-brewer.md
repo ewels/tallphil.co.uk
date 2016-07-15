@@ -2,7 +2,6 @@
 id: 850
 title: Using R Color Brewer
 date: 2014-12-05T12:45:56+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=850
 permalink: /r-color-brewer/

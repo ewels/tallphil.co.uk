@@ -2,7 +2,6 @@
 id: 600
 title: Sequences
 date: 2011-11-18T17:10:43+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=600
 permalink: /sequences/

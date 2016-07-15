@@ -2,7 +2,6 @@
 id: 640
 title: Thesis word challenge
 date: 2012-08-08T23:52:06+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=640
 permalink: /thesis-word-challenge/

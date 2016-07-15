@@ -2,7 +2,6 @@
 id: 685
 title: LyX Tips for Thesis Writing – Part 2
 date: 2012-12-16T16:06:58+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=685
 permalink: /lyx-tips-for-thesis-writing-part-two/

@@ -2,7 +2,6 @@
 id: 809
 title: 'R - Strip Plots for all files in a directory'
 date: 2014-02-04T15:32:11+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=809
 permalink: /r-strip-plots-for-all-files-in-a-directory/

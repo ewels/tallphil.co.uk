@@ -2,7 +2,6 @@
 id: 623
 title: 'LyX Tips for Thesis Writing - Part 1'
 date: 2012-06-13T16:46:28+00:00
-author: Phil
 layout: post
 guid: http://www.tallphil.co.uk/?p=623
 permalink: /lyx-tips-thesis-writing-part-1/
