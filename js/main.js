@@ -11,14 +11,16 @@ $(function() {
     
     // AJAX loading of posts
     $('.post-list-panel .post-link').click(function(e){
-        e.preventDefault();
-        if(!$(this).hasClass('active')){
-            $('.post-list li a').removeClass('active');
-            $(this).addClass('active');
-            $('.post-panel .post').html('').animate({
-                scrollTop: 0
-            });
-            History.pushState({}, "", $(this).attr('href'));
+        if($(window).width() > 600){
+            e.preventDefault();
+            if(!$(this).hasClass('active')){
+                $('.post-list li a').removeClass('active');
+                $(this).addClass('active');
+                $('.post-panel .post').html('').animate({
+                    scrollTop: 0
+                });
+                History.pushState({}, "", $(this).attr('href'));
+            }
         }
     });
     History.Adapter.bind(window, 'statechange', function(){

@@ -81,15 +81,24 @@
 @include media-query($on-palm) {
     .site-footer {
         text-align: center;
+        padding: 19px 0;
     }
     .nav-list {
         display: block;
     }
     .social-media-list {
         float: none;
+        margin: 15px 0;
+        padding: 15px 0;
+        border-top: 1px solid $grey-color-light;
+        border-bottom: 1px solid $grey-color-light;
     }
     .social-media-list li {
         float: none;
+        margin-right: 0;
+    }
+    .site-description {
+        padding: 0 $spacing-unit;
     }
 }
 
@@ -221,7 +230,16 @@
 }
 
 @include media-query($on-palm) {
-    .post-panel {
+    .home {
+        display: block;
+    }
+    .post-list-panel {
+        height: auto;
+        width: 100%;
+        border-right: none;
+    }
+    .home .post-panel,
+    .single-post .post-list-panel {
         display: none;
     }
 }
