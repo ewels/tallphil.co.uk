@@ -22,3 +22,5 @@ The files don't have to be the same length and there can be any number of them. 
 I hope this little snippet comes in handy for someone!
 
 <script src="https://gist.github.com/ewels/8805738.js"></script>
+
+See the code in this [GitHub Gist](https://gist.github.com/ewels/8805738).

@@ -29,3 +29,5 @@ Drag and drop this into a widget area to use. When expanded, you have a number o
 You'll probably want to customise the CSS a little. You can see an example plus some nice code for `functions.php` and `front-page.php` below...
 
 <script src="https://gist.github.com/ewels/9751176.js"></script>
+
+See the code in this [GitHub Gist](https://gist.github.com/ewels/9751176).
