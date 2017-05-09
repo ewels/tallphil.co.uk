@@ -13,7 +13,7 @@ tags:
   - software
 ---
 
-Software log messages are not a sexy topic. In fact, they're usually pretty
+> Software log messages are not a sexy topic. In fact, they're usually pretty
 low down the list of priorities that most bioinformaticians have when writing
 software. But logs are important! Here are some of my tips on how to get it
 right.
@@ -38,25 +38,10 @@ important when revisiting an old analysis, so you can be sure of how it was run.
 Summary statistics are relied upon by the user when assessing whether your
 program works.
 
-## Suggestion 1: Write to a file
-This is probably the most controversial of all my suggestions. Lots of
-bioinformatics tools output great logs, but they only go to `STDERR`
-(the standard error stream). This makes sense when running the tool, as you
-see the results come up on the console as you run the tool. However, it also
-means that the log messages _aren't saved by default_. Users will often do
-this themselves by redirecting this stream, but this file won't have a
-standard file name pattern and may be concatenated with output from other tools.
-
-Instead, I humbly suggest that you make life easy
-for your users - write logs and summary statistics to files. Using `STDERR` in
-addition to this is fine, worst case scenario is that the information will be
-saved twice. Giving your outputs a standard filename or filename extension has
-the added benefit that they're easier to find for downstream use.
-
-## Suggestion 2: Repeat Yourself
+## Suggestion 1: Repeat Yourself
 When a user executes a command and sees the
 resulting log, it's obvious to them what they ran. However, ask them again a
-week later and the chances are that they'll have forgotten the fifteen command
+week later and the chances are that they'll have forgotten the command
 line flags that they specified. Ask them a month later and they'll have
 forgotten why they ran it and what the data was. If you repeat all of this
 information in your log output files, it is stored for future reference which
@@ -100,10 +85,11 @@ _[...]_
 
 This is silently printed to a file for future reference, along with a much
 simpler `*Log.final.out` file which summarises the final results of the
-execution.
+execution. Great news when someone asks you what parameters you used two years
+after publishing your paper..
 
-## Suggestion 3: Use Nice Formats
-With a little forethought, it's a trivial job
+## Suggestion 2: Use Nice Formats
+With a little forethought, it's easy
 to write output which is easy to read for both Humans and computers. This
 suggestion is best explained with a couple of examples. [Bowtie
 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) is a common and very
@@ -131,7 +117,7 @@ This goes to `STDERR` and doesn't repeat the parameters or input
 filenames. However, what makes it really tricky to use is its format - the
 syntax of each line is very similar to others and can only be properly
 understood in the context of what's written around it _(MultiQC counts the
-indentation spaces with nested loops)._
+indentation spaces with nested loops, yuck)._
 
 Compare this to the summary output from
 [Salmon](https://combine-lab.github.io/salmon/) - a tool for quantifying
@@ -156,9 +142,8 @@ and `meta_info.json` (amongst others). These look like this:
 }
 ```
 
-
-By contrast, this output is trivial to find. Once found, it can be parsed
-in a single line of code. `cmd_info.json` lists the input files, the
+These files can be easily found and parsed in a single line of code.
+`cmd_info.json` lists the input files, the
 parameters, the version of the software and other key information. To be fair,
 Salmon was written with single-cell data in mind so the authors expected it
 to be run on thousands of samples, making machine parsing inevitable.
@@ -168,6 +153,22 @@ to it's nice Human-readable log output.
 If you're in doubt, I'd recommend using YAML, JSON or tab-separated
 output. I think YAML is the easiest to read for Humans; whilst tab-separated
 files can be most easily opened in Excel.
+
+## Suggestion 3: Write a summary to a file
+This is probably the most controversial of all my suggestions and least important.
+Lots of bioinformatics tools output great logs, but they only go to `STDERR`
+(the standard error stream). This makes sense when running the tool, as you
+see the results come up on the console as you run the tool. However, it also
+means that the log messages _aren't saved by default_. Users will often do
+this themselves by redirecting this stream, but it's an extra thing for them
+to remember. Additionally, this file won't have a
+standard file name pattern and may be concatenated with output from other tools.
+
+Instead, I humbly suggest that you make life easy
+for your users - write logs and summary statistics to files. Using `STDERR` in
+addition to this is fine, worst case scenario is that the information will be
+saved twice. Giving your outputs a standard filename or filename extension has
+the added benefit that they're easier to find for downstream use.
 
 ## In Conclusion
 Even though it might not seem obvious to you whilst developing, good logging
