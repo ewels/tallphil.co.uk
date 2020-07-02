@@ -9,6 +9,13 @@ categories:
   - Tutorials
   - Website Design
 ---
+
+> _Edit 2020-07-02_: An updated version of this blog post is now
+> available as part of the SRCF Tutorials documentation:
+> [https://docs.srcf.net/learn/](https://docs.srcf.net/learn/)
+
+---
+
 In a couple of days I'll be [giving a talk](http://www.mcr.trinhall.cam.ac.uk/events/event/mcmenemy-seminar-phil-ewels-how-websites-work-a-beginners-guide/) about web design - a very simple talk, just about the basics of how web pages are delivered and built. You can see the slides here:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/HTJx0ImHfYnTNO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
